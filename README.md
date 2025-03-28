@@ -6,6 +6,7 @@ This is a .NET 8 Web API for storing and maintaining job candidate contact infor
 
 The project is built with a layered architecture:
 - **Controller** → **Service** → **Repository** → **Database**
+  
 
 It includes:
 - **Authentication:** Native support for Basic Authentication (demo purposes).
@@ -32,6 +33,9 @@ It includes:
 - endpoints to delete or list all candidates.
 - error handling and logging
 
+### mistake
+-it was not a proper pushing to github made some mistakes in a hurry , forgot gitignore and some other
+
 
 ## Assumptions
 
@@ -44,4 +48,4 @@ It includes:
 
  - Currently, the API has a single endpoint for upserting candidate profiles. Additional operations (fetching or deleting profiles) planned.
 
-
+## 5 hours spent on this
